@@ -1,2 +1,3 @@
-# tictactoe
-Implemented data structures to manage game and player moves, enhancing the overall gaming experience. Developed a sophisticated Tic Tac Toe game with two-mode (i.e. computer v/s player, player1 v/s player2) featuring an AI opponent powered by the Minimax algorithm.
+# tic_tac_toe
+ A terminal-based Tic Tac Toe game developed in C++, with two modes i.e. computer vs player, player_1 vs player_2. With the MiniMax Algorithm, the computer can predict the best move to play according to the board's situation.
+ 
